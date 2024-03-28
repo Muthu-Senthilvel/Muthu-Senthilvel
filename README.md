@@ -1,7 +1,8 @@
 ### Hi there :wave:
 
-I am a data scientist passionate about data analysing and data modeling. 
+I am passionate and dedicated Data Scientist with a strong background in statistical analysis, machine learning, and data-driven problem-solving. Experienced in leveraging programming languages and tools to extract insights from complex datasets and develop innovative solutions.
 
-- 🔭 Currently working on phyton,SQL, HTML/CSS, JavaScript, Node.js and MongoDB
-- 🌱 Learning React.js, Express.js
-- ⚡ Languages: HTML/CSS, JavaScript
+- 🔭 Currently working on machine learning using phyton and SQL
+- 🌱 Machine Learning: Supervised Learning, Unsupervised Learning, Neural Networks
+- ⚡ Data Visualization: Matplotlib, Seaborn
+- 🍁 Some web development technologies like HTML,CSS and Javascript 
