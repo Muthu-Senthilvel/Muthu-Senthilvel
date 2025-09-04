@@ -1,8 +1,10 @@
-### Hi there :wave:
+Hi there 👋
 
-I am passionate and dedicated Data Scientist with a strong background in statistical analysis, machine learning, and data-driven problem-solving. Experienced in leveraging programming languages and tools to extract insights from complex datasets and develop innovative solutions.
+I am a passionate and dedicated Python Developer with a strong background in building scalable web applications, APIs, and data-driven solutions. Experienced in leveraging modern frameworks, databases, and frontend technologies to develop efficient, secure, and user-friendly applications.
 
-- 🔭 Currently working on machine learning using phyton and SQL
-- 🌱 Machine Learning: Supervised Learning, Unsupervised Learning, Neural Networks
-- ⚡ Data Visualization: Matplotlib, Seaborn
-- 🍁 Some web development technologies like HTML,CSS and Javascript 
+🔭 Currently working on: Backend development using Python, FastAPI, and Django
+🛠 Frameworks & Libraries: FastAPI, Django, React.js
+🗄 Databases: PostgreSQL, MS SQL
+🌱 Exploring: Advanced REST API design, Authentication, and Microservices
+⚡ Other Skills: Web development using HTML, CSS, JavaScript
+🚀 Passionate about writing clean, maintainable, and efficient code while solving real-world problems
